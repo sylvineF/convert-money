@@ -1,0 +1,17 @@
+{
+  "name": "convert-money",
+  "version": "0.0.2",
+  "description": "Convertisseur de money. Illustrer DOM-EVENT, INPUT etc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom",
+    "dom-event",
+    "greta",
+    "pedagogie"
+  ],
+  "author": "Funky Spirit",
+  "license": "MIT"
+}
